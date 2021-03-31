@@ -1,9 +1,9 @@
-Nivelatori MG by HTML5 UP
+Ketering Centar by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-This is Nivelatori MG, a full screen (and entirely responsive) photo gallery design. Unlike previous
+This is Ketering Centar, a full screen (and entirely responsive) photo gallery design. Unlike previous
 designs I've done in this vein (Parallelism, for instance), this one eschews the usual
 lightbox in favor of a completely full screen experience -- one that I'm happy to say
 translates awesomely all the way down to the tiniest of mobile devices. Full instructions
@@ -24,7 +24,7 @@ Instructions:
 
 	Overview:
 
-		Nivelatori MG is made up of three primary components:
+		Ketering Centar is made up of three primary components:
 
 		- The "main wrapper": The skinny little column on the right. Home to what little
 		  "regular" content you may have (header, footer, anything else you want to cram
@@ -51,7 +51,7 @@ Instructions:
 				<p>Description.</p>
 			</article>
 
-		And that's it. Nivelatori MG will figure out the rest.
+		And that's it. Ketering Centar will figure out the rest.
 
 	The "data-position" attribute:
 
@@ -71,7 +71,7 @@ Instructions:
 
 	Keyboard shortcuts:
 
-		Nivelatori MG is set up to respond to the following keyboard shortcuts:
+		Ketering Centar is set up to respond to the following keyboard shortcuts:
 
 		- Left Arrow: Go to previous image.
 		- Right Arrow: Go to next image.
